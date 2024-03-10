@@ -70,3 +70,4 @@ npm run start
 > NOTE - We will have to edit the **inbound rules** in the security group of our EC2, in order to allow traffic from our particular port
 
 ### Project is deployed on AWS 🎉
+<img width="941" alt="image" src="https://github.com/anilradar/Nodejs-app-on-AWS-EC2/assets/89974739/43d36fa4-c982-4243-a3eb-7257bef597dc">
